@@ -7,13 +7,13 @@
 
     "stack": "container",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {MALVIN-XD~0xwgFbYI#eyXkmqEz1m5iZS99S5nXWetLshPb30Z67I9fhxvRtTE
       "description": "Put the session-id here.",
       "required": true,
       "value": ""
     },  
     
-    "MENU_IMG": {
+    "MENU_IMG": {malvin
       "description": "paste your image url if you don't have you can use this public url.",
       "required": false,
       "value": "https://files.catbox.moe/gld2vo.jpg"
@@ -100,20 +100,20 @@
     }, 
 
     "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
+      "description": "dawens.",
       "required": false,
       "value": "Malvin King"
       
      }, 
 
     "OWNER_NUMBER": {
-      "description": "put the owner number for bot.",
+      "description": "13058962443.",
       "required": false,
       "value": "263714757857"
 
     }, 
 
-    "BOT_NAME": {
+    "BOT_NAME": {malvin
       "description": "Type here the bot name.",
       "required": false,
       "value": "✦ᴍᴀʟᴠɪɴ xᴅ v2✦"
